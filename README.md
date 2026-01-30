@@ -1,13 +1,13 @@
 <h1>Hi, I'm Josselyn! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Aplicar filtros para consulta Sql https://github.com/Josselynbeatriz/Aplicaci-n-de-filtros-Sql-/tree/main
+- [Aplicar filtros para consulta Sql] (https://github.com/Josselynbeatriz/Aplicaci-n-de-filtros-Sql-/tree/main)
 - <b>Analisis de trafico de red 
 - <b>Pentester Mentor Junior: 8 retos completados
-- 
-- <b>
+ 
+
   
-- <b>
+  
 
 <h2>Certificaciones
 <h2>Google Cyber Security https://www.coursera.org/account/accomplishments/professional-cert/6Q9MVUO031M0
