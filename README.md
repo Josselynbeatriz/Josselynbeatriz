@@ -1,6 +1,7 @@
 <h1>Hi, I'm Josselyn! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
--Aplicar filtros para consulta Sql (https://github.com/Josselynbeatriz/Aplicaci-n-de-filtros-Sql-/tree/main)
+
+ -Aplicar filtros para consulta Sql (https://github.com/Josselynbeatriz/Aplicaci-n-de-filtros-Sql-/tree/main)
 - <b>Analisis de trafico de red 
 - <b>Pentester Mentor Junior: 8 retos completados
  
