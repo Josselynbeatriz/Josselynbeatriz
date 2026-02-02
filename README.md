@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Aplicar filtros para consulta Sql (https://github.com/Josselynbeatriz/Aplicaci-n-de-filtros-Sql-/tree/main)
-- <b>Analisis de trafico de red 
+- <b>Analisis de trafico de red (https://github.com/Josselynbeatriz/An-lisis-de-tr-fico-de-red/tree/main)
 - <b>Pentester Mentor Junior: 8 retos completados
  
 
